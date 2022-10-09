@@ -23,7 +23,7 @@ body {
     display: block;
     margin: 45px auto 30px;
     border-radius: 50%;
-    border: solid #e6e6e6 2px;
+    /*border: solid #e6e6e6 2px;*/
     box-shadow: 0px 7px 15px rgba(20, 20, 20, 0.5);
   }
   #userPhoto:hover {
