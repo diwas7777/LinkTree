@@ -117,4 +117,12 @@ body {
   }
   
   /*This Glowing Hover Effect was made by qpi65 , i used it to Highlight my name */
-  
+    
+    /* Media Queries  */
+    @media screen and (max-width: 375px){
+      .icon h1{
+        text-align: center;
+        letter-spacing: 2px;
+      }
+    }  
+
