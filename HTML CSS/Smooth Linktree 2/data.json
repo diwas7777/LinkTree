@@ -1,0 +1,46 @@
+[
+    {
+        "id": 1,        
+        "pageLink": "https://github.com/diwas7777/LinkTree",
+        "pageIcons": "fa fa-mobile",
+        "contentToShow": "Portfolio",
+        "doYouWantToShowThis": "yes",
+
+        "socialLinks": "#",
+        "socialIcons": "fa fa-github",
+        "doYouNeedThisSocial": "yes"
+    },
+    {
+        "id": 2,        
+        "pageLink": "#",
+        "pageIcons": "fa fa-cart-plus",
+        "contentToShow": "Shop",
+        "doYouWantToShowThis": "yes",
+
+        "socialLinks": "#",
+        "socialIcons": "fa fa-facebook",
+        "doYouNeedThisSocial": "yes"
+    },
+    {
+        "id": 3,        
+        "pageLink": "#",
+        "pageIcons": "fa fa-pencil-square-o",
+        "contentToShow": "Blog",
+        "doYouWantToShowThis": "yes",
+
+        "socialLinks": "#",
+        "socialIcons": "fa fa-instagram",
+        "doYouNeedThisSocial": "yes"
+    },
+    {
+        "id": 4,        
+        "pageLink": "#",
+        "pageIcons": "fa fa-chrome",
+        "contentToShow": "Site 1",
+        "doYouWantToShowThis": "yes",
+
+        "socialLinks": "#",
+        "socialIcons": "fa fa-twitter-square",
+        "doYouNeedThisSocial": "yes"
+    }
+]
