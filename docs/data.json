@@ -1,0 +1,23 @@
+[
+    {
+        "id": 1,
+        "doYouWantToShowThis": "yes",
+        "link": "./HTML CSS/",
+        "icons": "fa fa-folder",
+        "contentToShow": "HTML CSS"
+    },
+    {
+        "id": 2,
+        "doYouWantToShowThis": "no",
+        "link": "#",
+        "icons": "fa fa-folder",
+        "contentToShow": "Folder name"
+    },
+    {
+        "id": 3,
+        "doYouWantToShowThis": "no",
+        "link": "#",
+        "icons": "fa fa-folder",
+        "contentToShow": "Folder name"
+    }
+]

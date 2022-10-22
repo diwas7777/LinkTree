@@ -1,0 +1,23 @@
+[
+    {
+        "id": 1,
+        "doYouWantToShowThis": "yes",
+        "link": "https://diwas7777.github.io/LinkTree/HTML CSS/Smooth LinkTree/",
+        "icons": "fa fa-file-code-o",
+        "contentToShow": "Template 1"
+    },
+    {
+        "id": 2,
+        "doYouWantToShowThis": "yes",
+        "link": "https://diwas7777.github.io/LinkTree/HTML CSS/Smooth Linktree 2/",
+        "icons": "fa fa-file-code-o",
+        "contentToShow": "Template 2"
+    },
+    {
+        "id": 3,
+        "doYouWantToShowThis": "no",
+        "link": "#",
+        "icons": "fa fa-file-code-o",
+        "contentToShow": "Folder name"
+    }
+]
