@@ -39,9 +39,9 @@ This open source project helps people make linktree by simply copy pasting and w
 - Add codes to respective folders according to the language used.
 - Please run the program and check for any errors before making the PR .
 - Do not spam, make sure to include all the programs you want to add in one PR.
-- If you want to add code of a language whose folder is not present,make a new folder and upload the code inside that folder and make a MR.
+- If you want to add code of a language whose folder is not present, make a new folder and upload the code inside that folder and make a MR.
 
-> Upload your code in this repository to particular section.If folder is not present make a new folder and add code.
+> Upload your code in this repository to the particular section. If folder is not present make a new folder and add code.
 > More repositories for contribution in Hacktoberfest 2022.
 
 | Repository                                                  | Issues                                                                                                                                                           | Pull Requests                                                                                                                                                     | Forks                                                                                                                                                             |
@@ -50,7 +50,7 @@ This open source project helps people make linktree by simply copy pasting and w
 
 ## Rules
 
-- Don't use foul/bad language and welcome new individuals into the repository.
+- Don't use any foul/bad language and welcome new individuals into the repository.
 
 ---
 
