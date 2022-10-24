@@ -28,11 +28,11 @@
       /*border: solid lightgray 2px;*/
       /*border: solid #e6e6e6 2px*/
       box-shadow: 0px 7px 15px rgba(20, 20, 20, 0.5);
+      transition: all ease 0.6s;
     }
 
     #userPhoto:hover {
-        width: 200px;
-        height: 200px;
+        transform: scale(1.2);
       }
 
     #userName {
@@ -66,6 +66,7 @@
       font-size: 20px;
       border: solid #e6e6e6 2px;
       box-shadow: 0px 7px 15px rgba(20, 20, 20, 0.5);
+      transition: all ease 0.5s;
     }
 
     .link:hover {
@@ -90,6 +91,7 @@
       opacity: 0.6;
       height: 30px;
       text-decoration: none;
+      transition: all ease 0.4s;
     }
 
     .icon:hover {
